@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="Case 0" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-01T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-01T00:01:35.670575" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 1" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-02T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-02T00:02:52.025367" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 2" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-03T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-03T00:03:51.099303" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 3" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-04T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-04T00:03:41.013726" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 4" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-05T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-05T00:03:25.865533" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 5" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-06T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-06T00:02:23.791480" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 6" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-07T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-07T00:02:42.464707" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 7" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-08T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-08T00:02:44.332226" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 8" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-09T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-09T00:02:59.280211" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 9" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-10T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-10T00:03:02.816719" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 10" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-11T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-11T00:03:05.838223" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 11" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-12T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-12T00:02:53.406114" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 12" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-13T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-13T00:03:45.807370" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 13" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-14T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-14T00:03:13.745814" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 14" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-15T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-15T00:04:25.873667" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 15" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-16T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-16T00:03:22.122115" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 16" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-17T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-17T00:03:12.072628" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 17" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-18T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-18T00:03:06.677596" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 18" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-19T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-19T00:03:06.334650" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 19" />
+		<event>
+			<string key="concept:name" value="A" />
+			<date key="time:timestamp" value="2000-01-20T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="B" />
+			<date key="time:timestamp" value="2000-01-20T00:02:40.995557" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 20" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-21T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-21T00:04:24.080697" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 21" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-22T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-22T00:03:36.659213" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 22" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-23T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-23T00:03:47.410914" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 23" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-24T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-24T00:03:29.533988" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 24" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-25T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-25T00:04:13.434625" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 25" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-26T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-26T00:04:16.367863" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 26" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-27T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-27T00:04:17.111300" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 27" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-28T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-28T00:04:19.945351" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 28" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-29T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-29T00:04:17.578699" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 29" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-30T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-30T00:04:39.751107" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 30" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-01-31T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-01-31T00:04:16.468009" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 31" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-01T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-01T00:04:24.116812" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 32" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-02T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-02T00:03:35.664647" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 33" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-03T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-03T00:03:01.104820" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 34" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-04T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-04T00:04:57.043150" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 35" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-05T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-05T00:04:06.297388" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 36" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-06T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-06T00:04:51.094040" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 37" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-07T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-07T00:04:17.755418" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 38" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-08T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-08T00:04:00.115688" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="Case 39" />
+		<event>
+			<string key="concept:name" value="C" />
+			<date key="time:timestamp" value="2000-02-09T00:00:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="D" />
+			<date key="time:timestamp" value="2000-02-09T00:04:00.422528" />
+		</event>
+	</trace>
+</log>
