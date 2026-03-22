@@ -109,7 +109,7 @@ def create_new(event):
     # -6: Agglomerative Clustering
     # <=-7: test data
     global select_options, select_options_inv, test_data_id_start, select_options_names
-    select_options = {"Agglomerative Clustering":-6, "KMeans Clustering":-5, "(nothing)":-2, "U-Matrix":-1}
+    select_options = {"(nothing)":-2, "U-Matrix":-1}
     test_data_id_start = -7
     _all_columns = EventLog.log.df_data.columns.to_list()
     _train_columns = SOM.df_train.columns.to_list()
